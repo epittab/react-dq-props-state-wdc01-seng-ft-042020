@@ -21,12 +21,12 @@ body {
   /*height: 80px;*/
 }
 
-#master-blaster {
-  height: 400px;
+#master-blaster, #baby {
+
   animation: blast 10s infinite ease-in-out;
 }
 
-#masters-domicile {
+#masters-domicile, #babycon {
   animation: Teeter-Totter 10s infinite ease-in-out;
 }
 
